@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/praveenkanna/Local disk/Workspace/CPP-ML_Implementation/generate random tensor/build",
+  "command": "/usr/bin/g++-9   -isystem \"/media/praveenkanna/Local disk/Download/libtorch/include\" -isystem \"/media/praveenkanna/Local disk/Download/libtorch/include/torch/csrc/api/include\"   -D_GLIBCXX_USE_CXX11_ABI=0 -g   -D_GLIBCXX_USE_CXX11_ABI=0 -std=gnu++14 -o CMakeFiles/example-app.dir/generateRandomTensor.cpp.o -c \"/media/praveenkanna/Local disk/Workspace/CPP-ML_Implementation/generate random tensor/generateRandomTensor.cpp\"",
+  "file": "/media/praveenkanna/Local disk/Workspace/CPP-ML_Implementation/generate random tensor/generateRandomTensor.cpp"
+}
+]
